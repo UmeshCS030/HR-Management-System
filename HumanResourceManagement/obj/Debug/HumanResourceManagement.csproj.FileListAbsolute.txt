@@ -1,0 +1,16 @@
+C:\Users\Ashan\Desktop\Level 2 Semester 2\Visual Programming\Project\HumanResourceManagement\HumanResourceManagement\bin\Debug\HumanResourceManagement.pdb
+C:\Users\Ashan\Desktop\Level 2 Semester 2\Visual Programming\Project\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.csproj.AssemblyReference.cache
+C:\Users\Ashan\Desktop\Level 2 Semester 2\Visual Programming\Project\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Form1.resources
+C:\Users\Ashan\Desktop\Level 2 Semester 2\Visual Programming\Project\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Properties.Resources.resources
+C:\Users\Ashan\Desktop\Level 2 Semester 2\Visual Programming\Project\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.csproj.GenerateResource.cache
+C:\Users\Ashan\Desktop\Level 2 Semester 2\Visual Programming\Project\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.csproj.CoreCompileInputs.cache
+C:\Users\Ashan\Desktop\Level 2 Semester 2\Visual Programming\Project\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.pdb
+C:\Users\Ashan\Desktop\Level 2 Semester 2\Visual Programming\Project\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Form2.resources
+C:\Users\Ashan\Desktop\Level 2 Semester 2\Visual Programming\Project\HumanResourceManagement\HumanResourceManagement\bin\Debug\HumanResourceManagement.dll.config
+C:\Users\Ashan\Desktop\Level 2 Semester 2\Visual Programming\Project\HumanResourceManagement\HumanResourceManagement\bin\Debug\HumanResourceManagement.dll
+C:\Users\Ashan\Desktop\Level 2 Semester 2\Visual Programming\Project\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Form3D.resources
+C:\Users\Ashan\Desktop\Level 2 Semester 2\Visual Programming\Project\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Form4D.resources
+C:\Users\Ashan\Desktop\Level 2 Semester 2\Visual Programming\Project\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Form5D.resources
+C:\Users\Ashan\Desktop\Level 2 Semester 2\Visual Programming\Project\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Form6D.resources
+C:\Users\Ashan\Desktop\Level 2 Semester 2\Visual Programming\Project\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.Form7D.resources
+C:\Users\Ashan\Desktop\Level 2 Semester 2\Visual Programming\Project\HumanResourceManagement\HumanResourceManagement\obj\Debug\HumanResourceManagement.dll
